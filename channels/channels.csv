@@ -1,6 +1,5 @@
 ID,Name,Package
-0,Live Events Channel,Pay-per-view
-100,Virgin Media Previews HD,Mixit
+100,Virgin TV Showcase,Mixit
 101,BBC One HD,Mixit
 102,BBC Two HD,Mixit
 103EW,ITV1 HD,Mixit
@@ -13,307 +12,309 @@ ID,Name,Package
 107EN,BBC Three HD,Mixit
 107WS,BBC Four HD,Mixit
 108EN,BBC Four HD,Mixit
-108S,BBC Scotland HD,Mixit
 108W,Channel 4 HD,Mixit
-110,Sky Witness HD,Entertainment
-111,Sky Max HD,Maxit
+109,Sky One HD,Entertainment
+110,Sky Witness HD,Entertainment
 112,Sky Comedy HD,Maxit
-114EW,ITV1 +1,Mixit
-114N,UTV +1,Mixit
-114S,STV +1,Mixit
+113EN,TLC HD,Lifestyle
+113WS,BBC Three HD,Mixit
+114,U&Alibi HD,Drama
 115,ITV2 HD,Entertainment
-116,ITV2 +1,Mixit
+116,U&Drama HD,Mixit
 117,ITV3 HD,Entertainment
 118,ITV4 HD,Entertainment
-119,ITVBe HD,Entertainment
-120EWN,ITVBe +1,Mixit
-120S,BBC Alba HD,Mixit
-121,Sky Crime HD,Maxit
-122,Sky Sci-Fi HD,Maxit
+119,ITV Quiz HD,Entertainment
+120,5USA,Mixit
+121,Sky Documentaries HD,Maxit
+122,Sky Crime HD,Maxit
 123,Sky Arts HD,Maxit
-124,Gold HD,Entertainment
-125,W HD,Mixit
-126,Alibi HD,Drama
-127,Dave HD,Mixit
-128,Really,Mixit
-129,Yesterday HD,Mixit
-130,Drama HD,Mixit
-131,Dave +1,Mixit
+124,U&GOLD HD,Entertainment
+125,U&W HD,Mixit
+126,5STAR,Mixit
+127,U&Dave HD,Mixit
+128EN,Quest HD,Mixit
+128WS,TLC HD,Lifestyle
+129,U&Yesterday HD,Mixit
+130,5ACTION HD,Mixit
+131,Sky HISTORY HD,Documentaries
 132,Comedy Central HD,Entertainment
-133,Comedy Central +1,Entertainment
+133,Crime + Investigation HD,Documentaries
 134,MTV HD,Lifestyle
-135,Pick,Mixit
+135,Sky Nature HD,Maxit
+136,Together TV,Mixit
+137EN,Quest Red,Mixit
+137WS,Quest HD,Mixit
+138,5Select,Mixit
 139,Challenge,Mixit
-140,Sky Arts,Mixit
-142W,Channel 4 +1,Mixit
-143,4seven HD,Mixit
-146,E4 +1,Mixit
+140,Sky Sci-Fi HD,Maxit
+143,4Seven HD,Mixit
+144,E4 Extra,Mixit
+146WS,Quest Red,Mixit
 147,More4 HD,Entertainment
-148,CBS Reality,Mixit
+148,True Crime,Mixit
 149,Legend,Mixit
-150,5ACTION HD,Mixit
-151,5STAR,Mixit
-152,5SELECT,Mixit
-153,5USA,Mixit
+150,That's TV,Mixit
+151,That's TV 2,Mixit
+152,That's TV 3,Mixit
 154,Comedy Central Extra,Lifestyle
-155,Channel 5 +1,Mixit
-156,Sky Replay,Drama
-157WS,BBC Three HD,Mixit
-159,Regional channels,Mixit
-160,E! HD,Maxit
-161EWN,BBC Alba HD,Mixit
-162EWN,BBC Scotland HD,Mixit
-162S,ITVBe +1,Mixit
-163,Sky Witness +1,Entertainment
-164,Sky Crime +1,Lifestyle
-166ESN,S4C HD,Mixit
-167,TLC HD,Lifestyle
-168,Investigation Discovery,Documentaries
-169,Quest HD,Mixit
-170,Quest Red,Mixit
-171,DMAX,Documentaries
-172,TLC +1,Lifestyle
-173,Investigation Discovery +1,Documentaries
-174,ITV3 +1,Mixit
-175,ITV4 +1,Mixit
-185,5USA +1,Mixit
-186,5STAR +1,Mixit
-189,GREAT! tv,Mixit
-190,W +1,Mixit
-191,Alibi +1,Drama
-192,HorrorXtra,Mixit
-194,Gold +1,Entertainment
-196,More4 +1,Mixit
-197,RealityXtra,Mixit
-198,Crime + Investigation HD,Documentaries
-199,Blaze,Mixit
+156,Sky Mix HD,Drama
+159,Regional Channels,Mixit
+161,BBC Alba,Mixit
+162,5USA,Mixit
+164,S4C HD,Mixit
+165,Really,Mixit
+166,Investigation Discovery,Documentaries
+168,Food Network,Mixit
+169,DMAX,Documentaries
+170,Great! TV,Mixit
+171,Legend Xtra,Documentaries
+172,True Crime Xtra,Lifestyle
+174,BLAZE,Mixit
+175,Virgin TV Ultra HD,Maxit
+176,U&Eden HD,Documentaries
+177,Discovery HD,Documentaries
+178,Animal Planet HD,Documentaries
+179,Discovery Science,Documentaries
+180,Discovery Turbo,Documentaries
+181,Discovery History,Documentaries
+182,National Geographic WILD HD,Documentaries
+183,National Geographic HD,Documentaries
+186,Sky HISTORY 2 HD,Mixit
+187,PBS America HD,Mixit
+192,God TV,Mixit
 204,Netflix,Premium
 205,Amazon Prime Video,Premium
-213,Quest +1,Mixit
-214,DMAX +1,Documentaries
-217,Yesterday +1,Mixit
-218,CBS Reality +1,Mixit
-219,HorrorXtra +1,Mixit
-222,Crime + Investigation +1,Documentaries
-226,Drama +1,Mixit
-228,Virgin TV Ultra HD,Maxit
-245,Eden HD,Documentaries
-246,Eden +1,Documentaries
-250,Discovery HD,Documentaries
-251,Animal Planet HD,Documentaries
-252,Discovery Science,Documentaries
-256,Discovery Turbo,Documentaries
-257,Discovery History,Documentaries
-258,Discovery +1,Documentaries
-259,Animal Planet +1,Documentaries
-260,Discovery Science +1,Documentaries
-261,Discovery History +1,Documentaries
-265,National Geographic Wild HD,Documentaries
-266,National Geographic HD,Documentaries
-267,National Geographic +1,Documentaries
-269,Together TV,Mixit
-270,Sky History HD,Documentaries
-271,Sky History +1,Documentaries
-272,Sky History2 HD,Documentaries
-273,PBS America,Mixit
-277,Sky Documentaries HD,Maxit
-278,Sky Nature HD,Maxit
-285,Food Network,Mixit
-286,HGTV,Mixit
-290,HGTV +1,Mixit
-292,God Channel,Mixit
-300,New Music on Demand,Mixit
-310,MTV Music,Lifestyle
-311,MTV Live HD,Lifestyle
-312,MTV Hits,Lifestyle
-313,MTV 90s,Lifestyle
-316,MTV 80s,Lifestyle
-335,The Box,Lifestyle
-336,4Music,Lifestyle
-337,E4 Extra,Mixit
-338,Kiss,Lifestyle
-340,Magic,Lifestyle
-342,Kerrang!,Lifestyle
-344,Vevo,Mixit
-345,Clubland TV,Mixit
-346,NOW 70s,Mixit
-347,NOW 80s,Mixit
-348,NOW Rock,Mixit
-400,Virgin Movies & Store,Mixit
+206,Virgin Media On Demand Streaming,Mixit
+220,Inside Crime HD,Mixit
+221,Real Wild HD,Mixit
+222,Mystery TV HD,Documentaries
+223,Haunt TV HD,Mixit
+224,History Hit HD,Mixit
+227,U&The Past HD,Mixit
+228,U&Real Heroes HD,Maxit
+229,U&Transport HD,Mixit
+230,Homes Under The Hammer HD,Mixit
+231,Inside Outside HD,Mixit
+233,Hell's Kitchen HD,Mixit
+234,History Hunters HD,Mixit
+237,Real Crime HD,Mixit
+238,Wonder HD,Mixit
+241,U&Laughs HD,Mixit
+243,The Chat Show Channel HD,Mixit
+244,Baywatch HD,Mixit
+245,Nature Time HD,Documentaries
+250,Deal Or No Deal HD,Documentaries
+251,Tipping Point HD,Documentaries
+252,Mythbusters HD,Documentaries
+253,Eggheads HD,Mixit
+254,Deal Masters HD,Mixit
+277,5 Cops HD,Maxit
+278,Catfish HD,Maxit
+279,CSI: Crime Scene Investigation HD,Mixit
+285,NOW 70s,Mixit
+286,NOW 80s,Mixit
+287,NOW 90s & 00s,Mixit
+288,NOW ROCK,Mixit
+289,Clubland TV,Mixit
+296,Stingray Classica HD,Mixit
+297,Stingray DJAZZ HD,Mixit
+298,ZenLIFE HD,Mixit
+299,Qello Concerts HD,Mixit
+303EW,ITV1 +1,Mixit
+303N,UTV +1,Mixit
+303S,STV +1,Mixit
+304,Channel 4 +1,Mixit
+305,Channel 5 +1,Mixit
+306,E4 +1,Mixit
+310,Sky Witness +1,Entertainment
+313EN,TLC +1,Lifestyle
+314,U&Alibi +1,Drama
+315,ITV2 +1,Mixit
+316,U&Drama +1,Mixit
+317,ITV3 +1,Mixit
+318,ITV4 +1,Mixit
+320,5USA +1,Mixit
+322,Sky Crime +1,Lifestyle
+324,U&GOLD +1,Entertainment
+325,U&W +1,Mixit
+326,5STAR +1,Mixit
+327,U&Dave Ja Vu,Mixit
+328EN,Quest +1,Mixit
+328WS,TLC +1,Lifestyle
+329,U&Yesterday +1,Mixit
+332,Comedy Central +1,Entertainment
+333,Crime + Investigation +1,Documentaries
+337WS,Quest +1,Mixit
+347,More4 +1,Mixit
+362,5USA +1,Mixit
+365,Really +1,Mixit
+366,Investigation Discovery +1,Documentaries
+369,DMAX +1,Documentaries
+376,U&Eden +1,Documentaries
+377,Discovery +1,Documentaries
+378,Animal Planet +1,Documentaries
+379,Discovery Science +1,Documentaries
+381,Discovery History +1,Documentaries
+383,National Geographic +1,Documentaries
+400,Virgin Movies Previews,Mixit
 401,Sky Cinema Premiere HD,Sky Cinema
-402,Sky Cinema Feel Good HD,Sky Cinema
-403,Sky Cinema Hits HD,Sky Cinema
-404,Sky Cinema Greats HD,Sky Cinema
+402,Sky Cinema Select HD,Sky Cinema
+403,Sky Cinema Hits HD,Sky Cinema
+404,Sky Cinema Greats HD,Sky Cinema
+405,Sky Cinema Animation HD,Sky Cinema
 406,Sky Cinema Family HD,Sky Cinema
-407,Sky Cinema Action HD,Sky Cinema
+407,Sky Cinema Action HD,Sky Cinema
 408,Sky Cinema Comedy HD,Sky Cinema
 409,Sky Cinema Thriller HD,Sky Cinema
-410,Sky Cinema Drama HD,Sky Cinema
-411,Sky Cinema Sci Fi & Horror HD,Sky Cinema
-412,Sky Cinema Animation HD,Sky Cinema
-415,TCM Movies HD,Drama
-417,TCM Movies +1,Drama
+410,Sky Cinema Drama HD,Sky Cinema
+411,Sky Cinema Sci-Fi & Horror HD,Sky Cinema
 419,Movies 24,Drama
-420,Movies 24 +1,Drama
-424,GREAT! Romance,Mixit
-425,GREAT! movies,Mixit
-426,GREAT! movies action,Mixit
+420,Movies 24 +,Drama
+424,Great! Romance,Mixit
+425,Great! Mystery,Mixit
+426,Great! Action,Mixit
 428,Film4 HD,Entertainment
 430,Film4 +1,Mixit
 445,Talking Pictures TV,Mixit
+450,British Screen Classics,Mixit
+451,wedotv Movies,Mixit
+460,Rakuten TV Top Movies,Mixit
+461,Rakuten TV Action,Mixit
+462,Rakuten TV Drama,Mixit
+463,Rakuten TV Comedy,Mixit
+464,Rakuten TV Sci-Fi,Mixit
 501,Sky Sports Main Event HD,Sky Sports HD
 502,Sky Sports Premier League HD,Sky Sports HD
 503,Sky Sports Football HD,Sky Sports HD
-504,Sky Sports Cricket HD,Sky Sports HD
-505,Sky Sports Golf HD,Sky Sports HD
-506,Sky Sports F1 HD,Sky Sports HD
-507,Sky Sports NFL HD,Sky Sports HD
-508,Sky Sports Arena HD,Sky Sports HD
+504,Sky Sports+ HD,Sky Sports HD
+505,Sky Sports Cricket HD,Sky Sports HD
+506,Sky Sports Golf HD,Sky Sports HD
+507,Sky Sports F1 HD,Sky Sports HD
+508,Sky Sports Tennis HD,Sky Sports HD
 509,Sky Sports News HD,Maxit
-510,Sky Sports Mix HD,Maxit
-511,Sky Sports Main Event,Sky Sports
-512,Sky Sports Premier League,Sky Sports
-513,Sky Sports Football,Sky Sports
-514,Sky Sports Cricket,Sky Sports
-515,Sky Sports Golf,Sky Sports
-516,Sky Sports F1,Sky Sports
-517,(Sky Sports Action),Sky Sports
-518,Sky Sports Arena,Sky Sports
-521,Eurosport 1 HD,Sport Lite
-522,Eurosport 2 HD,Sport Lite
-523,Eurosport 4K,Sport Lite
-526,MUTV,Premium
-527,BT Sport 1 HD,Maxit
-528,BT Sport 2 HD,Maxit
-529,BT Sport 3 HD,Maxit
-530,BT Sport 4 HD,Maxit
-531,BT Sport Ultimate,Maxit
-535,Sky Sports Racing HD,Mixit
+510,Sky Sports Action HD,Sky Sports
+511,Sky Sports Mix HD,Maxit
+512,Sky Sports Racing HD,Mixit
+513,Sky Sports Main Event UHD,Sky Sports
+514,Sky Sports F1 UHD,Sky Sports
+515,Sky Sports Ultra HD 1,Sky Sports
+516,Sky Sports Ultra HD 2,Sky Sports
+521,TNT Sports 1 HD,Sport Lite
+522,TNT Sports 2 HD,Sport Lite
+523,TNT Sports 3 HD,Sport Lite
+524,TNT Sports 4 HD,Premium
+525,TNT Sports Ultimate,Premium
+528,Premier Sports 1 HD,Premium
+529,Premier Sports 2 HD,Premium
+530,Premier Sports Rugby HD,Mixit
 536,Racing TV HD,Premium
-544,LFCTV HD,Premium
-551,Viaplay Sports 1 HD,Premium
-552,Viaplay Sports 2 HD,Premium
-553,Viaplay Xtra HD,Mixit
+540,Red Bull TV HD,Mixit
+541,TRACE Sport Stars HD,Mixit
+550,MUTV,Premium
+551,LFC TV HD,Premium
 601,BBC News HD,Mixit
 602,Sky News HD,Maxit
-603,Sky News,Mixit
 604,GB News HD,Mixit
 605,BBC Parliament HD,Mixit
-606,TalkTV HD,Mixit
-609,Bloomberg Television HD,Mixit
-613,CNBC Europe,Mixit
-614,NBC News Now HD,Mixit
+609,Bloomberg HD,Mixit
+613,CNBC,Mixit
 620,Euronews,Mixit
 621,NDTV 24x7,Mixit
 622,Al Jazeera English,Mixit
 624,France 24 English HD,Mixit
-625,NHK World-Japan HD,Mixit
-700,Kids TV on Demand,Mixit
+626,CNN HD,Mixit
 701,CBBC HD,Mixit
 702,CBeebies HD,Mixit
-703,BabyTV,Premium
+703,Baby TV,Premium
 704,Cartoon Network HD,Kids
 705,Cartoon Network +1,Kids
 706,Cartoonito,Kids
+707,Sky Kids HD,Kids
 712,Nickelodeon HD,Kids
-713,Nickelodeon +1,Kids
+713,Nick +1,Kids
 715,Nick Jr.,Kids
 716,Nick Jr. Too,Kids
-717,Nicktoons SD,Kids
+717,Nicktoons,Kids
 730,Boomerang,Kids
 731,Boomerang +1,Kids
-734,CITV,Mixit
-736,Pop,Mixit
-737,Tiny Pop,Mixit
 740,QVC HD,Mixit
 741,QVC Beauty,Mixit
 742,QVC Style HD,Mixit
 743,QVC Extra,Mixit
 747,Ideal World,Mixit
-748,Create and Craft,Mixit
-755,Gems TV,Mixit
+754,HobbyMaker HD,Mixit
+755,Gemporia,Mixit
 757,TJC HD,Mixit
+758,Cruise1st.tv HD,Mixit
+759,High Street TV HD,Mixit
 801,Utsav Gold HD,Asian Mela
 802,Utsav Bharat,Asian Mela
 803,Utsav Plus HD,Asian Mela
-805,Sony Entertainment Television HD,Asian Mela
-806,Sony Max HD,Asian Mela
-807,Sony SAB,Asian Mela
-808,Sony Max 2,Asian Mela
+805,SONY TV Asia HD,Asian Mela
+806,SONY MAX HD,Asian Mela
+807,SONY SAB,Asian Mela
+808,SONY MAX 2,Asian Mela
 809,Zee TV HD,Asian Mela
 810,Zee Cinema HD,Asian Mela
+811,Zee Punjabi,Asian Mela
 815,B4U Movies,Asian Mela
 816,B4U Music,Mixit
 825,Colors Gujarati,Asian Mela
 826,Colors HD,Asian Mela
 827,Colors Rishtey,Asian Mela
 828,Colors Cineplex,Asian Mela
-829,NDTV Good Times,Asian Mela
 831,Al Jazeera Arabic,Mixit
-838,Islam Channel,Mixit
-839,Islam Channel Urdu,Mixit
-858,BBC One Var HD,Mixit
+838,Islam Channel UK,Mixit
 861,BBC One London HD,Mixit
 862,BBC One Scotland HD,Mixit
-863,BBC One Northern Ireland HD,Mixit
+863,BBC One NI HD,Mixit
 864,BBC One Wales HD,Mixit
-865,BBC Two Network HD,Mixit
-870,ITV1 HD,Mixit
-871,ITV1 HD,Mixit
-875N,RTÉ One,Mixit
-876N,RTÉ2,Mixit
-877N,TG4,Mixit
+865,BBC Two England HD,Mixit
 901,BBC Radio 1,Mixit
 902,BBC Radio 2,Mixit
 903,BBC Radio 3,Mixit
 904,BBC Radio 4,Mixit
-905,BBC Radio 5 Live,Mixit
+905,BBC Radio 5Live,Mixit
 906,BBC World Service,Mixit
 907,BBC Radio 1Xtra,Mixit
-908,BBC Radio 5 Live Sports Extra,Mixit
+908,BBC Radio 5Live Sports Extra,Mixit
 909,BBC Radio 6 Music,Mixit
 910,BBC Radio 4 Extra,Mixit
 911,BBC Radio 4 LW,Mixit
 912,BBC Asian Network,Mixit
 913,BBC Radio Cymru 2,Mixit
-915,Absolute Radio,Mixit
-916,Smooth Radio,Mixit
-917,RTÉ Radio 1,Mixit
-918,Heart London,Mixit
+916,Smooth,Mixit
+917,RTE Radio 1,Mixit
+918,Heart FM,Mixit
 919,LBC,Mixit
 920,World Radio Network,Mixit
 921,Heart 80s,Mixit
 922,Classic FM,Mixit
 923,Gold,Mixit
-924,Planet Rock,Mixit
 927,talkSPORT,Mixit
-928,Magic,Mixit
 930,BBC Radio Scotland,Mixit
 931,BBC Radio Wales,Mixit
 932,BBC Radio Ulster,Mixit
 933,BBC Radio Foyle,Mixit
-934,BBC Radio nan Gàidheal,Mixit
+934,BBC Radio NanGaidheal,Mixit
 936,BBC Radio Cymru,Mixit
-937,BBC Radio London,Mixit
-951,Absolute 80s,Mixit
-952,Absolute Classic Rock,Mixit
-958,Capital London,Mixit
+937,BBC London,Mixit
+958,Capital,Mixit
 959,Capital XTRA,Mixit
 960,Radio X,Mixit
-963,Kiss,Mixit
-968,For Parents,Mixit
+968,PIN Help,Mixit
 969,Adult Previews,Mixit
-970,Television X,Pay-per-view
+970,Television X: The Fantasy Channel,Pay-per-view
 971,Babes & Brazzers,Pay-per-view
 972,Adult Channel,Pay-per-view
-973,XXX GirlGirl,Pay-per-view
-974,TVX 40+,Pay-per-view
-978,Television X,Premium
-979,XXX GirlGirl,Premium
-980,Adult Channel,Premium
-981,Babenation,Premium
-982,Meet The Babes,Premium
+973,XXX Brits,Pay-per-view
+974,Xrated 40 Plus,Pay-per-view
+978,TV X (subscription),Premium
+979,XXX Brits (subscription),Premium
+980,Adult Channel (subscription),Premium
+981,Babestation,Premium
 983,Pure Babes HD,Pay-per-view
-991,BBC Red Button 1 HD,Mixit
-998,Virgin Media Previews HD,Mixit
+985,PIN Help,Mixit
+991,BBC RB HD,Mixit
+998,What's On,Mixit
 999,Virgin TV Ultra HD,Maxit
